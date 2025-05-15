@@ -177,3 +177,19 @@ iframe {
     height: 350px;
     width: 700px;
 }
+
+footer {
+    background-color: #afddfb;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    margin-bottom: 0;
+}
+
+.footer {
+    text-align: center;
+    color: #1d1d1d;
+    font-size: 14px;
+}
