@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    font-family: Tahoma;
+}
+body {
+    background-color: aliceblue;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+div {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+p {
+    width: 980px;
+    margin: 10px auto 10px auto;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.topo {
+    background-color: #afddfb;
+}
+
+.logo {
+    width: 150px;
+}
+
+.paragrafo-topo {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.link-topo {
+    color: #1d1d1d;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 0 10px;
+    border-bottom: 2px solid #1d1d1d;
+}
+
+.banner {
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+.banner img {
+        border: 1px solid rgba(0, 0, 0, 0.082);
+    border-radius: 5px;
+}
+
+
+span {
+    font-weight: bold;
+}
+
+.about h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.about h2 {
+    color: #1c81c0;
+    margin-top: 0;
+    text-decoration: none;
+    margin-bottom: 15px;
+}
+
+.about img {
+    width: 450px;
+    border: 1px solid rgba(0, 0, 0, 0.082);
+    border-radius: 5px;
+}
+
+.texto-azul {
+    color: #1c81c0;
+    font-weight: bold; 
+}
+
+.texto-amarelo {
+    color: #fff81b;
+    font-weight: bold;
+}
+
+.serv {
+    background-color: #1d80c1;
+}
+
+.serv h3 {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.serv p {
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    width: 700px;
+    text-align: center;
+}
+
+.serv ul {
+    margin: 40px auto 40px auto;
+    width: 135px;
+}
+
+.serv li {
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.corre h3 {
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.corre img {
+    width: 450px;
+    border: 1px solid rgba(0, 0, 0, 0.082);
+    border-radius: 5px;
+}
+
+.cont {
+    background-color: #1d80c1;
+
+}
+
+.cont h3 {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.cont p {
+    background-color: #1d1d1d;
+    color: #ffffff;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.cont ul {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    list-style: none;
+    width: 210px;
+}
+
+.cont li {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.cont a {
+    padding: 2px 5px 2px 5px;
+    border-radius: 5px;
+    color: #1d80c1;
+    background-color: #ffffff;
+}
+
+iframe {
+    height: 350px;
+    width: 700px;
+}
